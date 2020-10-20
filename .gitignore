@@ -2,4 +2,5 @@
 .ipython/
 .local/
 .jupyter/
+tutorials/
 *.log

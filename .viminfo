@@ -23,24 +23,38 @@
 # Registers:
 
 # File marks:
-'0  4  8  ~/.gitignore
-|4,48,4,8,1603191064,"~/.gitignore"
+'0  5  9  ~/.gitignore
+|4,48,5,9,1603191367,"~/.gitignore"
 '1  4  8  ~/.gitignore
-|4,49,4,8,1603191057,"~/.gitignore"
-'2  1  4  ~/.gitignore
-|4,50,1,4,1603190971,"~/.gitignore"
-'3  1  4  ~/.gitignore
-|4,51,1,4,1603190971,"~/.gitignore"
-'4  1  4  ~/.gitignore
-|4,52,1,4,1603190971,"~/.gitignore"
+|4,49,4,8,1603191064,"~/.gitignore"
+'2  4  8  ~/.gitignore
+|4,50,4,8,1603191064,"~/.gitignore"
+'3  4  8  ~/.gitignore
+|4,51,4,8,1603191057,"~/.gitignore"
+'4  4  8  ~/.gitignore
+|4,52,4,8,1603191057,"~/.gitignore"
 '5  1  4  ~/.gitignore
 |4,53,1,4,1603190971,"~/.gitignore"
+'6  1  4  ~/.gitignore
+|4,54,1,4,1603190971,"~/.gitignore"
+'7  1  4  ~/.gitignore
+|4,55,1,4,1603190971,"~/.gitignore"
+'8  1  4  ~/.gitignore
+|4,56,1,4,1603190971,"~/.gitignore"
+'9  1  4  ~/.gitignore
+|4,57,1,4,1603190971,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  5  9  ~/.gitignore
+|4,39,5,9,1603191367,"~/.gitignore"
+-'  4  8  ~/.gitignore
+|4,39,4,8,1603191352,"~/.gitignore"
 -'  4  8  ~/.gitignore
 |4,39,4,8,1603191064,"~/.gitignore"
 -'  4  8  ~/.gitignore
 |4,39,4,8,1603191057,"~/.gitignore"
+-'  1  4  ~/.gitignore
+|4,39,1,4,1603191033,"~/.gitignore"
 -'  1  4  ~/.gitignore
 |4,39,1,4,1603191033,"~/.gitignore"
 -'  1  4  ~/.gitignore
@@ -51,12 +65,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1603191059	0
-	"	4	8
-	^	4	9
-	.	4	8
-	+	6	0
+	*	1603191366	0
+	"	5	9
+	^	5	10
+	.	5	9
+	+	7	0
 	+	3	6
 	+	2	8
 	+	1	4
-	+	4	8
+	+	4	9
+	+	5	9
